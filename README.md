@@ -10,10 +10,13 @@
 ```
 
 设置密码
+
 ![image](https://github.com/lihongbin99/history-notes/blob/master/static/readme/password.gif?raw=true)
 
 拖动时间轴
+
 ![image](https://github.com/lihongbin99/history-notes/blob/master/static/readme/time_line.gif?raw=true)
 
 修改时间, 回车还原历史记录
+
 ![image](https://github.com/lihongbin99/history-notes/blob/master/static/readme/time.gif?raw=true)
